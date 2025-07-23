@@ -112,5 +112,3 @@ Host the app on Render/Heroku
 
 🧑‍💻 Author
 Your Name – SWaraj Dara
-
-
