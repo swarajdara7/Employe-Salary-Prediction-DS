@@ -100,17 +100,15 @@ Classification Report
 
 Cross-validation scores
 
-📷 Screenshots
-(Add screenshots of the Streamlit UI and Flask API endpoints here)
 
 📌 To-Do
 Add support for more ML models (RandomForest, XGBoost)
 
-Add Dockerfile for containerization
 
-Host the app on Render/Heroku
+
+Host the app on Ngrok/Render/Heroku
 
 🧑‍💻 Author
-Your Name – SWaraj Dara
+Your Name – Swaraj Dara
 
 
